@@ -15,7 +15,7 @@
 
 - 📄 My Portfolio https://subhagittu.github.io/Portfolio_Subhadeep/
 
-- ⚡ Fun fact **AI Is going to take our future**
+- ⚡ Fun fact : **AI Is going to take our future**
 
 <h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=70></h3>
 <p align="left">
