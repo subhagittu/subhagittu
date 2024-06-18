@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PowerBi, Tableau, Excel Power Queries**
 
-- 💬 Ask me about **Complex PL,SQL,NOSQL Queries**
+- 💬 Ask me about **PL, SQL, NOSQL, C, C++, Python, ML, WEV DEV**
 
 - 📫 How to reach me **subhadeepdas572@gmail.com**
 
