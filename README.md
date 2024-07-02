@@ -5,6 +5,7 @@
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhagittu&label=Profile%20views&color=0e75b6&style=flat" alt="subhagittu" /> </p>
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C174%20hrs%2053%20mins-blue)
 
 - 🔭 I’m currently working on **Machine Learning**
 
