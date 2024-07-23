@@ -34,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhagittu&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="subhadeepdas572" /></p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhagittu&show_icons=true&theme=outrun" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=subhagittu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu&theme=nightowl" />
 </p>
 
