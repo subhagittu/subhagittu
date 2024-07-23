@@ -78,7 +78,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu&theme=nightowl" />
 </p>
 
-## 🏆 GitHub Trophies
+<br/>
+ <h2 align="center">🏆 GitHub Trophies</h2>
+<br>
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=subhagittu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
