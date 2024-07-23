@@ -35,7 +35,7 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhagittu&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="subhadeepdas572" /></p>
+<p><img width=390 src="https://streak-stats.demolab.com/?user=subhagittu&count_private=true&theme=react&border_radius=10" alt="streak stats"/></p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhagittu&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
