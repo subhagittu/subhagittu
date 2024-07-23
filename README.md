@@ -48,7 +48,7 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=subhagittu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</h2>
+<h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</h2>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
