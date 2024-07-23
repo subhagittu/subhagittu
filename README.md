@@ -34,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhagittu&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="subhadeepdas572" /></p>
 
 <p align="left">
- <img width=390 src="https://github-readme-stats.vercel.app/api?username=nishant-Tiwari24&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=390 src="https://github-readme-stats.vercel.app/api?username=subhagittu&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu&theme=nightowl" />
 </p>
 
