@@ -37,6 +37,11 @@
   
 </div>
 
+<hr>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-faith&theme=tokyo-night&hide_border=true" alt="Activity graph">
+</a>
+
 ## 🏆 GitHub Trophies
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=subhagittu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
