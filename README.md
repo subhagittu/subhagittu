@@ -42,9 +42,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhagittu&theme=tokyo-night&hide_border=true" alt="Activity graph">
 </a>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=subhagittu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
+</a>
+
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</h2>
 
