@@ -34,8 +34,8 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
+<a href="https://github-trophies.vercel.app/?username=subhagittu" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=subhagittu&theme=radical&margin-w=4&margin-h=4">
 </a>
 
 ### 📈 User Statistics
@@ -45,8 +45,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -54,8 +54,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhagittu">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhagittu&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -63,8 +63,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120&theme=dracula">
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=subhagittu">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=subhagittu&theme=dracula">
         </a>
       </td>
     </tr>
@@ -75,13 +75,13 @@
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhagittu">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhagittu&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhagittu&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhagittu&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -89,13 +89,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhagittu">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhagittu&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhagittu">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhagittu&theme=dracula"/>
         </a>
       </td>
     </tr>
