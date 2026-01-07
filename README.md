@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Subhadeep Das</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhagittu&label=Profile%20views&color=0e75b6&style=flat" alt="subhagittu" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhagittu&label=Profile%20views&color=0e75b6&style=flat" alt="subhagittu" /> </p>
 
