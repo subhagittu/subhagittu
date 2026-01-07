@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhagittu&label=Profile%20views&color=0e75b6&style=flat" alt="subhagittu" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhagittu&label=Profile%20views&color=0e75b6&style=flat" alt="subhagittu" /> </p>
+
 
 
 - 🔭 I’m currently working on **Machine Learning**
