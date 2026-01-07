@@ -48,7 +48,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu">
-          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=subhagittu&theme=nightowl&short_numbers=true"/>
+          <img width = "705" src="https://github-readme-streak-stats-eight.vercel.app/?user=subhagittu&theme=nightowl&short_numbers=true"/>
         </a>
       </td>
     </tr>
