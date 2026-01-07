@@ -40,8 +40,8 @@
 </a>
 
 ### 📈 User Statistics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&theme=algolia&hide_border=false">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<!-- <img align="right" alt="coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&theme=algolia&hide_border=false"> -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=subhagittu&theme=nightowl&short_numbers=true"/>
 <table>
   <tbody>
