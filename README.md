@@ -48,7 +48,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=subhagittu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=subhagittu&theme=nightowl&short_numbers=true"/>
         </a>
       </td>
     </tr>
